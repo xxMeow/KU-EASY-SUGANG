@@ -1,4 +1,5 @@
 # easySugang (Korea Univ.)
+![alt text](https://github.com/woonjangahn/easySugang/blob/master/easySugang_sample.gif?raw=true)
 
 ## 사용방법
 1. `easySugang.js` 파일 안에 샘플로 있는 배열처럼 학수번호와 분반을 입력하여 수정 후 전체 코드 복사
